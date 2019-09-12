@@ -1,0 +1,22 @@
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\bin\Debug\netcoreapp2.2\PRO2.deps.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\bin\Debug\netcoreapp2.2\PRO2.runtimeconfig.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\bin\Debug\netcoreapp2.2\PRO2.runtimeconfig.dev.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\bin\Debug\netcoreapp2.2\PRO2.dll
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\bin\Debug\netcoreapp2.2\PRO2.pdb
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\obj\Debug\netcoreapp2.2\PRO2.csprojAssemblyReference.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\obj\Debug\netcoreapp2.2\PRO2.csproj.CoreCompileInputs.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\obj\Debug\netcoreapp2.2\PRO2.AssemblyInfoInputs.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\obj\Debug\netcoreapp2.2\PRO2.AssemblyInfo.cs
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\obj\Debug\netcoreapp2.2\PRO2.dll
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Opdracht 1\obj\Debug\netcoreapp2.2\PRO2.pdb
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\bin\Debug\netcoreapp2.2\PRO2.deps.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\bin\Debug\netcoreapp2.2\PRO2.runtimeconfig.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\bin\Debug\netcoreapp2.2\PRO2.runtimeconfig.dev.json
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\bin\Debug\netcoreapp2.2\PRO2.dll
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\bin\Debug\netcoreapp2.2\PRO2.pdb
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\obj\Debug\netcoreapp2.2\PRO2.csprojAssemblyReference.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\obj\Debug\netcoreapp2.2\PRO2.csproj.CoreCompileInputs.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\obj\Debug\netcoreapp2.2\PRO2.AssemblyInfoInputs.cache
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\obj\Debug\netcoreapp2.2\PRO2.AssemblyInfo.cs
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\obj\Debug\netcoreapp2.2\PRO2.dll
+C:\Users\daysf\Desktop\ma\bewijzenmap\periode1.1\PRO2\Highway\obj\Debug\netcoreapp2.2\PRO2.pdb
